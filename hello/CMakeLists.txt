@@ -8,7 +8,7 @@ set(SRC_FILES hello.cpp)
 
 
 # ODEパス
-set(ODE_PATH /Users/shingo/work/ode-0.13)
+set(ODE_PATH /Users/xxx/work/ode-0.13)
 # インクルードパス
 include_directories(${ODE_PATH}/include)
 # ライブラリパスの追加
